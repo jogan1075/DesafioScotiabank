@@ -41,4 +41,10 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit:1.1.1")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.2.0")
 
+
+    implementation(Dependencies.koin)
+    implementation(Dependencies.koinExt)
+    implementation(Dependencies.koinScope)
+    implementation(Dependencies.koinViewModel)
+
 }
