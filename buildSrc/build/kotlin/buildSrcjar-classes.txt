@@ -1,1 +1,1 @@
-/Users/jmunoz/gitGorillaLabs/DesafioScotiabank/buildSrc/build/classes/kotlin/main/Versions.class
+/Users/jmunoz/gitGorillaLabs/DesafioScotiabank/buildSrc/build/classes/kotlin/main/Dependencies.class:/Users/jmunoz/gitGorillaLabs/DesafioScotiabank/buildSrc/build/classes/kotlin/main/Versions.class
